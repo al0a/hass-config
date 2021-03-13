@@ -1,0 +1,10 @@
+media_player:
+  - platform: onkyo
+    host: 192.168.0.170
+    name: receiver
+    sources:
+      bd-dvd: "PS5"
+      game: "switch"
+      strm-box: "Kodi"
+      # pc: "pc"
+      # tv: "tv"
